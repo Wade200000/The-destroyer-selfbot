@@ -7,7 +7,7 @@ The destroyer selfbot. Want a powerful selfbot for discord? Look no more. The de
 ##########################################################################
 omnipotence Bot one
 **__Commands__**:
-```
+
 {prefix}purge: Deletes your messages in a channel
 {prefix}apurge: Deletes all your messages in a server
 {prefix}tox (@users): Reports msgs from the user(s) mentioned
