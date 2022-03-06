@@ -3,7 +3,7 @@ The destroyer selfbot. Want a powerful selfbot for discord? Look no more. The de
 
 #disclamer! for the bot we take no responsibility for misuse of this bot and it is Purely for Educational Purpose's only#
 #Our Bots Commands (Created By The King And Rdimo6969)
-
+```
 ##########################################################################
 omnipotence Bot one
 **__Commands__**:
@@ -26,6 +26,23 @@ Options:{yellow}
 ################################################################################
 Hazard nuker bot Three (ss below)
 ###############################################################################################################
+
+
+
+
+
+###############################################################################################################
+
+Thank you for supporting Our project This project was originaly on the marketplace but we reached our goal and decided to Make It Public Thank You All And Enjoy!
+If you Have any Questions about Running the bot Just send a message in Issues ill be sure to leave a reply (Update the only issue is with the Hash if the bot does not work log in and out of your accound and run it again ;)
+
+
+
+
+````
+
+
+
 ![image](https://user-images.githubusercontent.com/101045193/156945157-4a425068-5ada-4fd4-b20b-19a254040ef0.png)
 
 ![image](https://user-images.githubusercontent.com/101045193/156945219-2773c9bf-4b57-49f1-b119-40f9ec7cf6d8.png)
@@ -34,6 +51,3 @@ Hazard nuker bot Three (ss below)
 ![image](https://user-images.githubusercontent.com/101045193/156945299-bd475177-e95a-44ce-9e9f-6b6623e43ba1.png)
 
 ![image](https://user-images.githubusercontent.com/101045193/156945360-167472b8-be26-448e-a440-2a40b2e73a1f.png)
-###############################################################################################################
-
-Thank you for supporting Our project This project was originaly on the marketplace but we reached our goal and decided to Make It Public Thank You All And Enjoy!
