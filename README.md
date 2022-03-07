@@ -41,8 +41,13 @@ If you Have any Questions about Running the bot Just send a message in Issues il
 
 ````
 **HOW TO RUN THE DESTROYER**
-First install a zip file of the-destroyer-selfbot_mainpy
-create a folder for all of the py resources and run the Destroyer.exe (its a Auto-py-to-exe export) 
+•First install a zip file of the-destroyer-selfbot_mainpy
+
+•Create a folder for all of the py resources and run the Destroyer.exe (its a Auto-py-to-exe export) 
+
+•If the Console closes Pleases log in and out of your account it will fix the Hash
+
+![image](https://user-images.githubusercontent.com/101045193/156966246-1cb24f3b-f9aa-4f83-bc0e-3bb7fb8d98b0.png)
 
 
 ![image](https://user-images.githubusercontent.com/101045193/156945157-4a425068-5ada-4fd4-b20b-19a254040ef0.png)
