@@ -34,7 +34,7 @@ Hazard nuker bot Three (ss below)
 ###############################################################################################################
 
 Thank you for supporting Our project This project was originaly on the marketplace but we reached our goal and decided to Make It Public Thank You All And Enjoy!
-If you Have any Questions about Running the bot Just send a message in Issues ill be sure to leave a reply (Update the only issue is with the Hash if the bot does not work log in and out of your accound and run it again ;)
+If you Have any Questions about Running the bot Just send a message in Issues ill be sure to leave a reply (Update the only issue is with the Hash if the bot does not work log in and out of your accound and run it again ;) (All the files need to be in a folder for the exe too work)
 
 
 
